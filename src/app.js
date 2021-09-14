@@ -47,7 +47,7 @@ class App{
         <div id="main">
             <div id="title">
                 人生重开模拟器<br>
-                <div style="font-size:1.5rem; font-weight:normal;">加载中...</div>
+                <div style="font-size:1.5rem; font-weight:normal;">加载中(第一次会有点久)...</div>
             </div>
         </div>
         `);
